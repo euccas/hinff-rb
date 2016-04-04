@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Inflib
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/inflib`. To experiment with that code, run `bin/console` for an interactive prompt.
@@ -41,4 +40,4 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 =======
 # inflib
 A gem handles common trivias and make everyday ruby programming easier
->>>>>>> e56a22a698d0673188fac6138897f1a3c7434c2f
+
