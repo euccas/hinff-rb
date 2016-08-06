@@ -1,8 +1,9 @@
 # Inflib
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/inflib`. To experiment with that code, run `bin/console` for an interactive prompt.
+ruby-inflib: A ruby gem handles common trivias and makes everyday ruby programming easier.
 
-TODO: Delete this and the text above, and describe your gem
+*Ruby -- "The best friend of programmers."*
+*ruby-inflib -- "The best friend of Ruby programmers :)"* 
 
 ## Installation
 
