@@ -1,10 +1,10 @@
 # Inflib
 
-ruby-inflib: A ruby gem handles common trivias and makes everyday ruby programming easier.
+inflib: A ruby gem handles common trivias and makes everyday ruby programming easier.
 
 *Ruby -- "The best friend of programmers."*
 
-*ruby-inflib -- "The best friend of Ruby programmers :)"* 
+*inflib -- "The best friend of Ruby programmers :)"* 
 
 ## Installation
 
