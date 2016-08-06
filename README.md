@@ -3,6 +3,7 @@
 ruby-inflib: A ruby gem handles common trivias and makes everyday ruby programming easier.
 
 *Ruby -- "The best friend of programmers."*
+
 *ruby-inflib -- "The best friend of Ruby programmers :)"* 
 
 ## Installation
@@ -39,6 +40,5 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
 =======
-# inflib
-A gem handles common trivias and make everyday ruby programming easier
+
 
