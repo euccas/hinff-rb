@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["euccas.chen@gmail.com"]
 
   spec.summary       = %q{Common ruby helpers}
-  spec.description   = %q{Handles coding trivias and makes your everyday ruby programming easier.}
+  spec.description   = %q{Handles coding trivia and makes your everyday ruby programming easier.}
   spec.homepage      = ""
   spec.license       = "MIT"
 

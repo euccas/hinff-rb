@@ -1,16 +1,17 @@
 require "inflib/version"
-require 'inflib/code'
-require 'inflib/utils'
-require 'inflib/infutils'
-require 'inflib/lsf'
-require 'inflib/email'
-require 'inflib/db'
+
+require 'inflib/common/utils'
+require 'inflib/common/lsf'
+require 'inflib/common/email'
+require 'inflib/common/db_pg'
+require 'inflib/common/perforce'
+
+require 'inflib/inf_test'
 
 require 'fileutils'
 require 'open3'
 require 'yaml'
-require 'net/smtp'
-require 'pg'
+
 
 if /linux/ =~ RUBY_PLATFORM
   require 'pty'
