@@ -22,9 +22,37 @@ Or install it yourself as:
 
     $ gem install inflib
 
-## Usage
+## Modules
 
-TODO: Write usage instructions here
+### common/utils
+  - Common helper functions
+  - Update envrionment variables
+  - Get time stamps
+  - Check file/directory availability
+  - Handle exit
+
+### common/db_pg
+  - Helper functions for PostgreSQL database
+  - Connect to database
+  - Check if database or table exists
+  - Process database tables
+
+### common/email
+  - Helper functions for Emails
+  - Send email (SMTP)
+
+### common/lsf
+  - Helper functions for LSF
+  - Submit LSF jobs (bsub)
+  - Monitor LSF jobs
+
+### common/perforce
+  - Helper functions for Perforce
+  - Perforce login
+
+### usecase
+  - Helper functions for specific use cases
+  - Tests related
 
 ## Development
 
