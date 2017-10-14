@@ -1,9 +1,9 @@
 ##############################################################
-##  Ruby Code Infra Lib -- Utils
+##  Ruby Code Hinff -- Utils
 ##  File Name:   utils.rb
 ##  Owner:  Euccas Chen <euccas.chen@gmail.com>
 ##############################################################
-module Inflib
+module Hinff
 
   def show_banner(app_info, app_author)
     sep_line(86, '*')
@@ -360,4 +360,4 @@ module Inflib
     return os
   end
 
-end # Module: Inflib
+end # Module: Hinff

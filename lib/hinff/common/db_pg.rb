@@ -1,11 +1,11 @@
 ##############################################################
-##  Ruby Code Infra Lib -- Database
+##  Ruby Code Hinff -- Database
 ##  File Name:   db_pg.rb
 ##  Owner:  Euccas Chen <euccas.chen@gmail.com>
 ##############################################################
 
-module Inflib
-  module DbPg
+module Hinff
+  module DBPg
 
     require 'pg'
 
@@ -80,6 +80,6 @@ module Inflib
       end
     end # show_db_table_records
 
-  end # Module: DbPg
+  end # Module: DBPg
 
-end # Module: InfLib
+end # Module: Hinff

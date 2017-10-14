@@ -1,8 +1,8 @@
 ##############################################################
-##  Ruby Code Infra Lib -- Perforce
+##  Ruby Code Hinff -- Perforce
 ##  File Name:   perforce.rb
 ##  Owner:  Euccas Chen <euccas.chen@gmail.com>
 ##############################################################
-module Inflib
+module Hinff
 
-end # module Inflib
+end # module Hinff

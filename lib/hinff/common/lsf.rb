@@ -1,9 +1,9 @@
 ##############################################################
-##  Ruby Code Infra Lib -- LSF
+##  Ruby Code Hinff -- LSF
 ##  File Name:   lsf.rb
 ##  Owner:  Euccas Chen <euccas.chen@gmail.com>
 ##############################################################
-module Inflib
+module Hinff
   def bsub_code(code, queue, outdir)
     ### output: [file] bsub_record
 

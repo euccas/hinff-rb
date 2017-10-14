@@ -1,17 +1,17 @@
-# Inflib
+# Hinff
 
-inflib: A ruby gem handles common trivias and makes everyday ruby programming easier.
+hinff: A ruby gem handles common trivias and makes everyday ruby programming easier.
 
 *Ruby -- "The best friend of programmers."*
 
-*inflib -- "The best friend of Ruby programmers :)"* 
+*hinff -- "The best friend of Ruby programmers :)"* 
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'inflib'
+gem 'hinff'
 ```
 
 And then execute:
@@ -20,7 +20,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install inflib
+    $ gem install hinff
 
 ## Modules
 
@@ -62,7 +62,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/inflib/fork )
+1. Fork it ( https://github.com/[my-github-username]/hinff/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)

@@ -1,8 +1,8 @@
 require 'spec_helper'
 
-describe Inflib do
+describe Hinff do
   it 'has a version number' do
-    expect(Inflib::VERSION).not_to be nil
+    expect(Hinff::VERSION).not_to be nil
   end
 
   it 'does something useful' do

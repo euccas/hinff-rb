@@ -1,10 +1,10 @@
 ##############################################################
-##  Ruby Code Infra Lib -- Email
+##  Ruby Code Hinff -- Email
 ##  File Name:   email.rb
 ##  Owner:  Euccas Chen <euccas.chen@gmail.com>
 ##############################################################
 
-module Inflib
+module Hinff
   require 'net/smtp'
 
   def send_mail(smtp_host, smtp_port, sender, to, cc, message)
@@ -69,4 +69,4 @@ module Inflib
     return shorturl_html
   end
 
-end # Module: InfLib
+end # Module: Hinff

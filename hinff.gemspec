@@ -1,11 +1,11 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'inflib/version'
+require 'hinff/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "inflib"
-  spec.version       = Inflib::VERSION
+  spec.name          = "hinff"
+  spec.version       = Hinff::VERSION
   spec.authors       = ["Euccas Chen"]
   spec.email         = ["euccas.chen@gmail.com"]
 

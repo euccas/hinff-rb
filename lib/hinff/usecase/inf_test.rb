@@ -1,9 +1,9 @@
 ##############################################################
-##  Ruby Code Infra Lib
+##  Ruby Code Hinff
 ##  File Name:   inf_test.rb
 ##  Owner:  Euccas Chen <euccas.chen@gmail.com>
 ##############################################################
-module Inflib
+module Hinff
 
   def gen_testlist_file(testfile, test_names)
     unless is_var_defined(test_names)
