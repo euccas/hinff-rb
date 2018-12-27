@@ -1,9 +1,9 @@
 ##############################################################
-##  Ruby Code Hinff
-##  File Name:   inf_test.rb
+##  Ruby Code Rstone
+##  File Name:   rstone_test.rb
 ##  Owner:  Euccas Chen <euccas.chen@gmail.com>
 ##############################################################
-module Hinff
+module Rstone
 
   def gen_testlist_file(testfile, test_names)
     unless is_var_defined(test_names)

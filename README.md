@@ -1,17 +1,17 @@
-# Hinff
+# Rstone
 
-hinff: A ruby gem handles common trivias and makes everyday ruby programming easier.
+rstone: A ruby gem handles common trivias and makes everyday ruby programming easier.
 
 *Ruby -- "The best friend of programmers."*
 
-*hinff -- "The best friend of Ruby programmers :)"* 
+*rstone -- "The best friend of Ruby programmers :)"* 
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'hinff'
+gem 'rstone'
 ```
 
 And then execute:
@@ -20,7 +20,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install hinff
+    $ gem install rstone
 
 ## Modules
 
@@ -62,7 +62,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/hinff/fork )
+1. Fork it ( https://github.com/[my-github-username]/rstone/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)

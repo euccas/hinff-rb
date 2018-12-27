@@ -1,9 +1,9 @@
 ##############################################################
-##  Ruby Code Hinff -- LSF
+##  Ruby Code Rstone -- LSF
 ##  File Name:   lsf.rb
 ##  Owner:  Euccas Chen <euccas.chen@gmail.com>
 ##############################################################
-module Hinff
+module Rstone
   def bsub_code(code, queue, outdir)
     ### output: [file] bsub_record
 

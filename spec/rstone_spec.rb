@@ -1,8 +1,8 @@
 require 'spec_helper'
 
-describe Hinff do
+describe Rstone do
   it 'has a version number' do
-    expect(Hinff::VERSION).not_to be nil
+    expect(Rstone::VERSION).not_to be nil
   end
 
   it 'does something useful' do

@@ -1,10 +1,10 @@
 ##############################################################
-##  Ruby Code Hinff -- Database
+##  Ruby Code Rstone -- Database
 ##  File Name:   db_pg.rb
 ##  Owner:  Euccas Chen <euccas.chen@gmail.com>
 ##############################################################
 
-module Hinff
+module Rstone
   module DBPg
 
     require 'pg'
@@ -82,4 +82,4 @@ module Hinff
 
   end # Module: DBPg
 
-end # Module: Hinff
+end # Module: Rstone

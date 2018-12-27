@@ -1,9 +1,9 @@
 ##############################################################
-##  Ruby Code Hinff -- Utils
+##  Ruby Code Rstone -- Utils
 ##  File Name:   utils.rb
 ##  Owner:  Euccas Chen <euccas.chen@gmail.com>
 ##############################################################
-module Hinff
+module Rstone
 
   def show_banner(app_info, app_author)
     sep_line(86, '*')
@@ -360,4 +360,4 @@ module Hinff
     return os
   end
 
-end # Module: Hinff
+end # Module: Rstone

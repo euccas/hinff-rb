@@ -1,10 +1,10 @@
 ##############################################################
-##  Ruby Code Hinff -- Email
+##  Ruby Code Rstone -- Email
 ##  File Name:   email.rb
 ##  Owner:  Euccas Chen <euccas.chen@gmail.com>
 ##############################################################
 
-module Hinff
+module Rstone
   require 'net/smtp'
 
   def send_mail(smtp_host, smtp_port, sender, to, cc, message)
@@ -69,4 +69,4 @@ module Hinff
     return shorturl_html
   end
 
-end # Module: Hinff
+end # Module: Rstone
